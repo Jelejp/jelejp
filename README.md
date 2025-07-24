@@ -16,8 +16,17 @@ Me apasiona aprender nuevas tecnologías, aplicar **buenas prácticas de código
 
 ### 🛠 &nbsp; Stack Tecnológico
 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="40"> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"> | <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40"> |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+#### **Frontend**
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40 title="React / React Native">|<img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width=40 title="Expo">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3">|<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="TailwindCSS">|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+
+#### **Backend**
+|<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40" title="Java">|<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" title="Spring Boot">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL">|
+|:-:|:-:|:-:|
+
+#### **Herramientas y Entorno**
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git">|<img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" title="GitLab">|<img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="40" title="Vercel">|<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="40" title="Render">|<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" title="Postman">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code">|<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="40" title="IntelliJ IDEA">|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ---
 
